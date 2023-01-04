@@ -1,0 +1,111 @@
+Data management case:
+Consider the following case and answer question 1 using up to 600 words.
+The Group for the Appreciation of the Natterjack Toad (GANT) scenario
+The Group for the Appreciation of the Natterjack Toad (GANT) is a conservation
+group which is keen to promote and preserve the well-being of the Natterjack toad.
+It has a significant number of members in a number of different countries around the
+world, all of whom are keen to promote the work of the Group which is a charity
+registered in the UK. All the Group’s information is either on a web-based application
+available to members over the Internet or on old-fashioned, paper-based documents
+held by Dr Jane Peabody, the honorary secretary/treasurer.
+The Natterjack toad is an endangered species which is gradually being destroyed by
+the development of areas where it prospers and through pollution affecting the
+brackish water and sand dunes in which it lives. The membership of the organisation
+is growing and the system for managing the records of members is one area where
+there are some concerns about the information assurance. Details of the Group’s
+activities, their meeting places, their website and other aspects of the Group’s work
+have been compromised in the recent past owing to the server containing them
+having no significant assurance in place. The chairperson (Ms Rachel Jackson)
+believes it is the right time to take information assurance more seriously. She has
+heard a bit about Information Assurance but needs to be clear what it really means
+and, most importantly, what the benefits and costs would be to the organisation.
+Question 1:
+Assume that you have been invited to a committee meeting of GANT by
+the chairperson, who wants you to ‘start the ball rolling’ by explaining
+why it would be a good idea for GANT to think about Information
+Assurance.
+To make your points most forcefully, she has asked you to define three
+threats to the organisation, three vulnerabilities and consequently three
+risks that any Information Assurance system would need to manage.
+
+Risk assessment case
+Consider the following case and answer question 2 using up to 600 words.
+Apple Health
+The most prominent healthcare product by Apple is its health app. It is a complete
+tracker for measuring all the activities and health of the user. It monitors sleep, food,
+activity, heart rate (when connected with IoT devices), and other things that provide
+a clear assessment of the user’s health data. The patient can connect this health
+data with other applications and ensure that they achieve the best measurements
+for the same. Apple Health is one of the best healthcare application examples that
+patients can use to get a better idea of their health.
+Link: https://www.apple.com/healthcare/
+Question 2:
+Provide a risk assessment report for the Apple Health scenario. Identify at least 5 risks
+and mitigation strategies.
+
+
+Case security frameworks
+Consider the following case and answer question 3 using up to 600 words.
+Technology is transforming the point of sale—definitely for the better. Today’s point
+of sale (POS) systems are light years removed from cash registers of the past. POS
+credit card processing is easier than ever, but you’ll want to become familiar with the
+latest in what’s available before diving in.
+So let’s catch up on what’s new. Here’s a brief introduction to point of sale credit
+card processing:
+A new era for POS credit card processing equipment
+If you run a physical store location, you’ll need the right equipment to accept credit
+cards, debit cards, digital wallets and other forms of payment.
+Credit card terminals are the most familiar and longest-standing forms of retail
+payment acceptance. Credit card terminals are easy to use both for your staff and
+your customers. Yet even these “simple” credit card terminals are smarter than ever.
+The majority of credit card terminals issued support secure transactions such as
+EMV “chip card” technology. Today, smart credit card terminals include NFC (nearfield communications) technology that accept contactless payments and mobile
+wallets such as Apple Pay, Google Pay, and Samsung Pay.
+Credit card terminals can provide a simple and reliable way to accept credit cards at
+the point of sale. The primary function of a standalone terminal is to accept card
+payments. For value-added solutions that provide additional benefits beyond
+processing such as, payroll management, loyalty programs and more, you’ll want to
+look to a fully-integrated POS system.
+A fully-integrated POS system is engineered so you can to operate your business
+more efficiently, both on the front end and back office. Often sleek and powerful with
+full-screen graphical interfaces, integrated POS systems are easy to use.
+At the point of sale, faster checkout frees you and your staff to spend more time
+attending to the needs of customers. When it’s time to manage back-office tasks,
+integrated POS systems offer a wealth of businesses productivity tools including
+direct reporting, inventory tracking, and employee scheduling features.
+POS systems are rich in features, but they typically cost a bit more than a standalone
+terminal. Fully integrated POS systems aren’t right for every business when starting
+out. But for those ready to take the plunge, a wide variety of integrated systems are
+available, often designed specifically for the needs of industries just like yours.
+Mobile acceptance solutions are the newest entry to the world of POS credit card
+processing. Mobile acceptance allows you to take payments using just a smartphone
+and a card reader. Apps and attachments like secure credit card readers make the
+point of sale wherever you want it to be.
+Mobile acceptance solutions let you accept credit cards anywhere: a flea market,
+house call, client visit or letting your staff meet your customers where they are within
+your store. Mobile payment systems are best known for business on-the-go. Yet the
+simple act of freeing the point of sale from the register is transforming in-store
+checkout as well.
+Question 3:
+Provide a discussion on data management frameworks considering the payment
+systems. What are the vulnerabilities and security controls for the POS case? Provide
+at least 4 security controls.
+
+Write Literature review for the above cases. Provide references and citations where necessary
+
+Write an Abstract with the following ;
+
+1.Why cybertreats are increasing
+
+2. Talk about cases used in the 3 assessment discussed above.
+
+3. Talk about Significance of the findings from the 3 assessment discussed above.
+
+
+
+Write an Introduction with structure laying the following ;
+
+1. The background for the 3 assessment discussed above.
+2.  The purpose for the 3 assessment discussed above.
+3. The scope for the 3 assessment discussed above.
+4. The summary  body of the paper for the 3 assessment discussed above.
